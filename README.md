@@ -1,7 +1,7 @@
 # Launch S3 Buckets with Terraform
 <img src= "https://imgur.com/yDC0XEP.png" width="100%" alt="Terminal view">
 
-### I am learning how to use Terraform to automate the deployment of AWS S3 bucket.
+### I am learning how to use Terraform to automate the deployment of an AWS S3 bucket.
 
 ### What is Terraform?
 - It is a tool for managing our IT resources using code. You use Terraform to process a configuration file you have prepared that details the desired state of your infrastructure. Terraform then creates/updates to set up that desired state.
