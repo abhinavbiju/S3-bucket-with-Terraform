@@ -11,6 +11,7 @@
 
 ## Downloading Terraform
 - Head to the official Terraform Download Page: https://developer.hashicorp.com/terraform/downloads
+- Terraform Website for S3 documentation: https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket
 ### What is Terraform?
 - It is a tool for managing our IT resources using code. You use Terraform to process a configuration file you have prepared that details the desired state of your infrastructure. Terraform then creates/updates to set up that desired state.
 - Terraform is one of the most popular tools used for infrastructure as code (IaC), which is a way to manage your IT infrastructure. Instead of manually managing resources using the console or text commands in CLI, IaC automates with code.
