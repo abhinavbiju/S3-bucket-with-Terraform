@@ -84,6 +84,26 @@ terraform apply
 <img src= "https://imgur.com/z0Rnjw1.png" width="100%" alt="Terminal view">
 
 ## Upload an S3 object with Terraform
--
+- Add a New Image file
+- Make sure your downloaded/chosen image has the title image.png.
+= Move your image into your nextwork_terraform folder.
+- Save the main.tf file.
+= In your terminal, run the following commands:
+```bash
+terraform plan
+terraform apply
+```
+- Type yes and press Enter in your keyboard to confirm.
+<img src= "https://imgur.com/jylCqjL.png" width="100%" alt="Terminal view">
 
+- Head back to your AWS Management Console and S3 console.
+- Click into your bucket's page.
 
+<img src= "https://imgur.com/bueCC1x.png" width="100%" alt="Terminal view">
+
+# That's a Wrap!
+Congrats! You've just learned how to:
+- 🛠️ Install and configure Terraform.
+- 🔑 Configure your AWS credentials in the terminal.
+- 🪣 Create and manage S3 buckets with Terraform.
+- 💎 Upload files to S3 with Terraform.
